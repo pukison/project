@@ -1,1 +1,3 @@
 Interesting plaintext
+
+Changes in both files but only commited changes in file
